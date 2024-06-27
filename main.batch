@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=Rust_low_cross_notre_dame       # Job name
+#SBATCH --nodes=1                    # Run all processes on a single node
+#SBATCH --ntasks=1                   # Run a single task	
+#SBATCH --cpus-per-task=24            # Number of CPU cores per task
+#SBATCH --mem=10000mb                  # Total memory limit; if unit is not specified MB will be assumed
+#SBATCH --time=06:10:00              # Time limit hrs:min:sec
+#SBATCH --output=%x_%j.log            # Standard output and error log. %x denotes the job name, %j the jobid.
+
+module load gnu8
+
+./main data/notreDame-d.txt

@@ -1,0 +1,96 @@
+Filename: BIOGRID-SYSTEM-Affinity_Capture-RNA-3.5.169.edgelist
+Average Time taken: 7.338999999999999 sec
+Average Max Crossing Number: 872.0
+
+Filename: dip20170205.edgelist
+Average Time taken: 1.299 sec
+Average Max Crossing Number: 203.6
+
+Filename: BIOGRID-SYSTEM-Affinity_Capture-MS-3.5.169.edgelist
+Average Time taken: 15.917777777777777 sec
+Average Max Crossing Number: 886.8888888888889
+
+Filename: t.CAL-w.txt
+Average Time taken: 772.5888888888888 sec
+Average Max Crossing Number: 14.0
+
+Filename: epinions1-d.txt
+Average Time taken: 53.65 sec
+Average Max Crossing Number: 1150.8
+
+Filename: buddha-w.txt
+Average Time taken: 78.72666666666667 sec
+Average Max Crossing Number: 34.0
+
+Filename: y-BerkStan-d.txt
+Average Time taken: 7153.197999999999 sec
+Average Max Crossing Number: 1595.0
+
+Filename: CAIDA_as_20130601.edgelist
+Average Time taken: 33.651999999999994 sec
+Average Max Crossing Number: 899.9
+
+Filename: twitter_combined-d.txt
+Average Time taken: 78.74222222222221 sec
+Average Max Crossing Number: 1456.6666666666667
+
+Filename: BIOGRID-MV-Physical-3.5.169.edgelist
+Average Time taken: 1.875 sec
+Average Max Crossing Number: 249.8
+
+Filename: oregon2_010331.txt
+Average Time taken: 1.781 sec
+Average Max Crossing Number: 318.2
+
+Filename: z-alue7065.txt
+Average Time taken: 0.44699999999999995 sec
+Average Max Crossing Number: 8.0
+
+Filename: ca-HepPh.edgelist
+Average Time taken: 0.65125 sec
+Average Max Crossing Number: 227.0
+
+Filename: t.FLA-w.txt
+Average Time taken: 242.202 sec
+Average Max Crossing Number: 16.0
+
+Filename: com-dblp.ungraph.txt
+Average Time taken: 76.61000000000001 sec
+Average Max Crossing Number: 308.0
+
+Filename: powerlaw2.5.txt
+Average Time taken: 3636.6288888888885 sec
+Average Max Crossing Number: 1162.0
+
+Filename: notreDame-d.txt
+Average Time taken: 543.5550000000001 sec
+Average Max Crossing Number: 856.6
+
+Filename: froz-w.txt
+Average Time taken: 144.033 sec
+Average Max Crossing Number: 16.0
+
+Filename: gnutella31-d.txt
+Average Time taken: 2.06625 sec
+Average Max Crossing Number: 98.5
+
+Filename: grid300-10.txt
+Average Time taken: 2.568888888888889 sec
+Average Max Crossing Number: 8.0
+
+Filename: p2p-Gnutella09.edgelist
+Average Time taken: 0.13800000000000004 sec
+Average Max Crossing Number: 148.3
+
+Filename: xgrid500-10.txt
+Average Time taken: 18.505 sec
+Average Max Crossing Number: 8.0
+
+Filename: facebook_combined.txt
+Average Time taken: 0.26111111111111107 sec
+Average Max Crossing Number: 173.55555555555554
+
+Filename: as-skitter.txt
+Average Time taken: 32207.96 sec
+Average Max Crossing Number: 10492.0
+
