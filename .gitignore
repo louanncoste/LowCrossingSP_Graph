@@ -1,2 +1,8 @@
+target/
 *.txt
 *.tex
+res/
+*.swp
+*.sh
+*.batch
+*.ipynb
